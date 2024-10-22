@@ -1,0 +1,42 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+NOW I CAN PUT STUFF ON THE INTERNET
+
+This is an awesome website about data science and elmo?
+
+Sometimes I use [google](https://google.com/) to do data science when I'm stuck.
+
+
+# Local image
+
+This should be a picture.
+
+![](images/image.jpg)
+
+<img src="images/image.jpg" style="width:75%">
+
+
+
+# Knit the whole website
+
+Restart R studio, and find `Build Website` to reknit everything.
+
+
+# Link to page within the site
+
+If you'd like to learn more about this website, visit [this page](about.html)
+
+
+# Repository name
+
+Important: use correct repository name, e.g. lampfish226.github.io/project1
